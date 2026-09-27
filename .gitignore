@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Word lock/temp files
+~$*.doc*
+~*.tmp
+
+# Local proxy log
+proxy.log
