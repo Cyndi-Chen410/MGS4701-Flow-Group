@@ -13,3 +13,4 @@ Thumbs.db
 
 # Local proxy log
 proxy.log
+*.bak
