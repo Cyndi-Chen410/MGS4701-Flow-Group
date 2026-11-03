@@ -1,0 +1,305 @@
+﻿序号,国家/地区,院校,项目名称,面试形式,面试平台,题目数量/时长,问题类型,典型面试问题示例,数据来源（可搜索验证）,来源类型,面试形式编码,面试形式分类,平台标签,题目数量(解析),时长分钟(解析)
+1,美国,麻省理工学院 (MIT),Master of Business Analytics (MBAn),真人视频面试（1V1）+ 视频提交,Zoom / 自建平台,视频1:60秒自我介绍；视频2:10秒准备+60秒作答1题；面试30分钟（行为+技术）,行为题+技术题（数学/概率/统计/编程）+PPT项目展示,"1. Tell me about a data science project you are proud of
+2. Explain a statistical concept to a non-technical person
+3. What is your greatest achievement?",https://mitsloan.mit.edu/master-of-business-analytics/admissions/how-to-apply,院校官网 + 知乎面经,live_video,真人视频面试,"Zoom,自建平台",1.0,30.0
+2,美国,哥伦比亚大学 (Columbia),MS in Business Analytics (MSBA),异步视频面试（录播）,自建视频面试平台,3题；每题90秒准备+3分钟作答,行为题（领导力/团队/动机）,"1. Tell me about a time you showed leadership
+2. Describe a situation where you worked in a team
+3. Why Columbia MSBA?",https://www.gsb.columbia.edu/programs/msba/admissions/interview,院校官网 + 小红书/一亩三分地,async_video,异步视频面试（录播）,,3.0,3.0
+3,美国,纽约大学 Stern 商学院 (NYU),MS Business Analytics,异步视频面试（录播）,Kira Talent,约8-9题；每题1分30秒准备+3分钟作答,行为题+写作题+动机题,"1. EHICS讨论
+2. 东京杯子问题
+3. 15分钟即兴写作（多样性话题）",小红书/一亩三分地面经帖 + NYU Stern官网,小红书/一亩三分地 + 院校官网,async_video,异步视频面试（录播）,Kira Talent,8.5,3.0
+4,美国,加州大学圣地亚哥分校 Rady 管理学院 (UCSD),MS in Business Analytics (MSBA),异步视频面试（录播）,在线异步面试平台,5题（含写作）；邀请制,职业规划+编程能力+数据分析项目+写作,"1. What does the next 3-4 years look like after graduation?
+2. Share the most complex programming you've done
+3. A project that used analytics",https://rady.ucsd.edu/graduate-business-analytics/program/admissions/index.html,院校官网 + 新东方面经,async_video,异步视频面试（录播）,,5.0,
+5,美国,西北大学 McCormick 工程学院 (Northwestern),M.S. in Analytics (MSiA),真人视频面试（Zoom/Skype）,Zoom / Skype（Associate Director主持）,15-30分钟；邀请制,动机+职业规划+数据分析认知,"1. 你的职业规划是什么？
+2. 你对Data Science的认识
+3. 为什么申请西北大学分析专业？",https://www.mccormick.northwestern.edu/analytics/,院校官网 + 知乎/新东方,live_video,真人视频面试,"Zoom,Skype",,22.5
+6,美国,康奈尔大学 (Cornell),MS in Business Analytics (MSBA),视频面试（部分申请者获邀）,自建平台,10-15分钟；邀请制,动机+职业规划+项目理解+逻辑,"1. Why Cornell MSBA?
+2. Describe your analytical experience
+3. Where do you see yourself in 5 years?",https://business.cornell.edu/msba/admissions/,院校官网 + 新东方,live_video,真人视频面试,自建平台,,12.5
+7,美国,杜克大学 Fuqua 商学院 (Duke),MQM: Business Analytics,真人视频面试（推荐参加）,Skype / Zoom / 电话 / 校园面,30-45分钟；邀请制,教育背景+个人兴趣+职业规划+行为题,"1. Walk me through your resume
+2. Why MQM Business Analytics?
+3. Tell me about a leadership experience",https://www.fuqua.duke.edu/business-analytics-ms,院校官网 + 金吉列留学,live_video,真人视频面试,"Zoom,Skype,线下/校园,电话",,37.5
+8,美国,南加州大学 Marshall 商学院 (USC),MS in Finance (MSF),异步视频面试（录播）,Kira Talent,约5-6题；含写作,行为题+动机题+写作题,"1. Why USC Marshall?
+2. Describe a challenge you overcame
+3. Short essay on a current event",https://marshall.usc.edu/msf,院校官网 + 知乎,async_video,异步视频面试（录播）,Kira Talent,5.5,
+9,美国,约翰斯·霍普金斯大学 (JHU),MS in Applied Data Science,异步视频面试（录播）,Kira Talent,约5题；每题1-2分钟作答,行为题+动机题+数据分析认知,"1. Why JHU Applied Data Science?
+2. Describe a data project
+3. What excites you about data science?",https://www.cs.jhu.edu/~mdinitz/msads/,院校官网 + 知乎/Kira面试攻略,async_video,异步视频面试（录播）,Kira Talent,5.0,1.5
+10,美国,华盛顿大学圣路易斯分校 (WUSTL),MS in Business Analytics,异步视频面试（录播）,Kira Talent,约5-6题,行为题+动机题+开放性题目,"1. Why WUSTL MSBA?
+2. Tell me about a teamwork experience
+3. How do you handle ambiguity?",https://oit.wustl.edu/programs/msba/,院校官网 + 知乎,async_video,异步视频面试（录播）,Kira Talent,5.5,
+11,美国,佐治亚理工学院 (Georgia Tech),MS in Analytics,材料审核+部分面试,自建平台,视项目轮次而定,行为题+技术基础,"1. Why Georgia Tech Analytics?
+2. Describe your quant background
+3. How will you contribute to the program?",https://analytics.gatech.edu/,院校官网 + 知乎,selective,部分候选人需面试（评估制）,自建平台,,
+12,美国,密歇根大学 (University of Michigan),Master of Applied Data Science (MADS),真人视频面试（Zoom）+ 技能评估,Zoom,30-45分钟面试 + 1小时技能评估（可选高级评估3.5小时）,行为题+编程技能评估,"1. Why MADS at Michigan?
+2. Walk through your Python project
+3. Career goals?",https://www.si.umich.edu/programs/mads,院校官网,live_video,真人视频面试,Zoom,,37.5
+13,美国,芝加哥大学 (University of Chicago),MS in Analytics (MSA),异步视频面试（录播）,Kira Talent,约5-6题,行为题+动机题+案例分析,"1. Why UChicago Analytics?
+2. Describe a data-driven decision
+3. How do you communicate insights?",https://www.chicagobooth.edu/programs/ms-analytics,院校官网 + 知乎,async_video,异步视频面试（录播）,Kira Talent,5.5,
+14,美国,加州大学伯克利分校 (UC Berkeley),Master of Information and Data Science (MIDS),部分项目需面试,自建平台/Kira,视项目而定,行为题+技术认知,"1. Why MIDS at Berkeley?
+2. Describe an analytics project
+3. How do you handle data ethics?",https://ischool.berkeley.edu/mids,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Kira Talent,自建平台",,
+15,美国,卡内基梅隆大学 (CMU),MS in Analytics (MSA),部分项目需面试,自建平台,视项目轮次而定,行为题+技术题+动机题,"1. Why CMU Analytics?
+2. Explain a machine learning concept
+3. Describe your teamwork experience",https://www.cmu.edu/tepper/programs/master-of-analytics/,院校官网 + 知乎,selective,部分候选人需面试（评估制）,自建平台,,
+16,美国,乔治城大学 (Georgetown),MS in Analytics,部分申请者需面试,自建平台/Kira,视项目而定,行为题+动机题+数据分析认知,"1. Why Georgetown Analytics?
+2. Describe your analytics experience
+3. Career goals?",https://collegesanduniversities.today/georgetown-analytics/,院校官网 + 知乎面经,selective,部分候选人需面试（评估制）,"Kira Talent,自建平台",,
+17,美国,亚利桑那大学 (University of Arizona),MS in Business Analytics (MSBA),虚拟面试（邀请制）,Zoom / 电话,15-25分钟；邀请制,兴趣+量化背景+项目适配度,"1. Why MSBA at Arizona?
+2. Describe your quant background
+3. Career goals?",https:// Eller.arizona.edu/msba/admissions,院校官网,selective,部分候选人需面试（评估制）,"Zoom,电话",,20.0
+18,美国,威廉玛丽学院 (William & Mary),MS in Business Analytics (MSBA),异步视频面试（录播）,Kira Talent,约5-6题,行为题+动机题+开放性题目,"1. Why William & Mary MSBA?
+2. Describe a leadership experience
+3. How do you work in teams?",https://mason.gmu.edu/~siswartz/msba/,院校官网 + 知乎面经,async_video,异步视频面试（录播）,Kira Talent,5.5,
+19,美国,布兰迪斯大学 (Brandeis),MS in Data Science,异步视频面试（录播）,Kira Talent,约5题,行为题+动机题+学术兴趣,"1. Why Brandeis Data Science?
+2. Describe a research experience
+3. What data problem interests you?",https://www.brandeis.edu/data-science/,院校官网 + 知乎,async_video,异步视频面试（录播）,Kira Talent,5.0,
+20,美国,波士顿大学 (Boston University),MS in Data Science,部分项目需面试,Kira Talent / 自建平台,视项目而定,行为题+动机题+技术认知,"1. Why BU Data Science?
+2. Describe your programming experience
+3. Career goals?",https://www.bu.edu/cas/data-science/,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Kira Talent,自建平台",,
+21,英国,帝国理工学院 (Imperial College London),MSc Business Analytics,异步视频面试（录播）,Kira Talent,6题：Q1自我介绍(30s准备+2min)；Q2-3行为题(30s+1min)；Q4专业题(30s+1min)；Q5写作(5min)；Q6开放题(30s+1min),自我介绍+行为题+专业题+写作题+开放题,"1. Tell me about yourself
+2. Describe a time you led a team
+3. What is your opinion on AI ethics?
+4. Short essay on a business topic",https://www.imperial.ac.uk/business-school/programs/pgt/business-analytics/,院校官网 + 知乎面经,async_video,异步视频面试（录播）,Kira Talent,6.0,
+22,英国,伦敦大学学院 (UCL),MSc Business Analytics,异步视频面试（录播）,WePow,5题；每题约2分钟作答,动机题+专业认知+职业规划,"1. What's the most challenging activity in college?
+2. What's your opinion on data analysis in 5 years?
+3. What are you good at?
+4. What is the most challenging thing for you in this major?
+5. What company/industry do you want to work in?",https://www.ucl.ac.uk/management/msc-business-analytics,院校官网 + 新东方面经,async_video,异步视频面试（录播）,WePow,5.0,2.0
+23,英国,伦敦政治经济学院 (LSE),MSc Data Science,部分项目需面试（研究型MPhil/MRes必面）,Skype / 电话,视项目而定，约20-30分钟,学术动机+研究兴趣+技术基础,"1. Why LSE Data Science?
+2. Describe your research interests
+3. Explain a statistical method you know",https://www.lse.ac.uk/study-at-lse/graduate/msc-data-science,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Skype,电话",,25.0
+24,英国,牛津大学 (University of Oxford),MSc Advanced Computer Science / 数据相关,电话/Skype面试,电话 / Skype,约30分钟；约1/3申请者获邀,基本问题+专业问题（提供文本/图表/诗歌要求分析）,"1. Why this program?
+2. Future career plans?
+3. Analyze a given chart/text",https://www.ox.ac.uk/admissions/graduate/programs,院校官网 + 金吉列留学,phone,电话面试,"Skype,电话",,30.0
+25,英国,剑桥大学 (University of Cambridge),Part III Mathematics / Data Science相关,视频会议或电话,Zoom / 电话 / 线下,约20-30分钟,基本问题+专业挑战性问题,"1. Why Cambridge?
+2. Future development direction?
+3. Solve a challenging real-world problem",https://www.cam.ac.uk/admissions/graduate/,院校官网 + 金吉列留学,live_video,真人视频面试,"Zoom,线下/校园,电话",,25.0
+26,英国,华威大学 (Warwick Business School),MSc Management (Analytics方向),部分项目需面试,Kira Talent / Zoom,视项目而定,行为题+动机题+商业认知,"1. Why Warwick?
+2. Describe a business problem you solved
+3. Career goals?",https://warwick.ac.uk/fac/soc/wbs/,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Zoom,Kira Talent",,
+27,英国,曼彻斯特大学 (University of Manchester),MSc Business Analytics,部分项目需面试,Zoom / 自建平台,视项目而定,动机题+专业认知+职业规划,"1. Why Manchester Business Analytics?
+2. What trends are shaping BA?
+3. How will you apply this degree?",https://www.alliance-manchester-business-school.university/programs/msc-business-analytics/,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Zoom,自建平台",,
+28,英国,爱丁堡大学 (University of Edinburgh),MSc Business Analytics,部分项目需面试,Zoom / 电话,视项目而定,动机题+学术背景+专业兴趣,"1. Why Edinburgh BA?
+2. Describe your quant background
+3. What excites you about analytics?",https://www.ed.ac.uk/business-school/taught-degrees/msc-business-analytics,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Zoom,电话",,
+29,中国香港,香港大学 (HKU),MSc in Business Analytics,视频面试（录播）,Kira Talent / 自建平台,3题 × 1.5分钟,动机题+专业理解+个人优势,"1. Why BA / Why HKU?
+2. What was the hardest course in undergrad?
+3. How is BA applied in your target industry?
+4. Your key strengths?",https://bs.hku.hk/programs/msc-business-analytics,院校官网 + 小红书/一亩三分地,async_video,异步视频面试（录播）,"Kira Talent,自建平台",3.0,5.0
+30,中国香港,香港科技大学 (HKUST),MS in Business Analytics (MSBA),线上Zoom面试（双教授）,Zoom + Lantern AI（2026新增AI交互）,15分钟高强度CV面；约5题，准备1分钟+回答30秒-1分钟,动机+项目方法/模型+统计/ML基础+职业规划,"1. Why MSBA / Why HKUST?
+2. Explain a model/method from your CV
+3. Statistical / ML basics tied to projects
+4. Career plans?",https://bs.hkust.edu.hk/programs/full-time-msba,院校官网 + 小红书面经 + 指南者留学,live_video,真人视频面试,"Zoom,Lantern AI",5.0,17.0
+31,中国香港,香港中文大学 (CUHK),MSc in Data Science,全英文个面,Zoom / 线下,10-15分钟；邀请制,学术背景+职业规划+专业知识,"1. Self-introduction
+2. Explain your thesis/research
+3. What is stationarity in time series?
+4. Career goals?
+5. Why CUHK Data Science?",https://pgapply.cuhk.edu.cn / http://mscds.cuhk.edu.cn/,院校官网 + CSDN面经,live_video,真人视频面试,"Zoom,线下/校园",,12.5
+32,中国香港,香港中文大学（深圳）(CUHKSZ),MSc in Data Science,全英文个面（笔试+面试）,Zoom / 线下,笔试2小时 + 面试10-15分钟,笔试：Python/数学/逻辑；面试：学术+职业,"笔试：Python编程+线性代数+统计+逻辑
+面试：论文介绍+时间序列概念+职业规划",https://pgapply.cuhk.edu.cn,院校官网 + CSDN面经,written_live,笔试/机考+真人面试,"Zoom,线下/校园",,12.5
+33,中国香港,香港城市大学 (CityU),MSc in Data Science / BA相关,Video / 真人单面 / 群面,Kira / Zoom,视项目而定,动机题+表达+专业匹配,"1. Why CityU Data Science?
+2. Describe your analytics project
+3. Group discussion on a business case",https://www.cityu.edu.hk/,院校官网 + 小红书,mixed,混合形式,"Zoom,Kira Talent",,
+34,中国香港,香港理工大学 (PolyU),MSc Business Analytics / BDC,真人线上单面,Zoom,5-10分钟；1-2位教授,动机+职业规划+沟通表达,"1. Self-introduction
+2. Why this programme?
+3. Future career plans?
+4. Willing to work in Greater Bay Area?",https://www.polyu.edu.hk/bsc/,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,7.5
+35,中国香港,香港浸会大学 (HKBU),MSc Data Science and AI,真人线上面试（单面+群面）,Zoom,视项目而定,动机题+项目深挖+群面表达,"1. Self-introduction (strict time limit)
+2. Why HKBU / Why major?
+3. Project/internship deep dive
+4. Group discussion",https://www.hkbu.edu.hk/,院校官网 + 小红书面经,mixed,混合形式,Zoom,,
+36,中国香港,香港大学 (HKU),MSc in Computing (Data Science),笔试+面试,线下 / Kira,笔试考察数学（概率/积分/矩阵）+编程；面试考察编程语言/数理/ML,数学+编程+机器学习,"笔试：概率/积分/矩阵/编程基础
+面试：编程语言掌握/数理/ML能力",https://www.comp.hku.hk/,院校官网 + 官方知识库,written_live,笔试/机考+真人面试,"Kira Talent,线下/校园",,
+37,中国香港,香港科技大学 (HKUST),MSc in Data Science,线上面试,Zoom,视项目而定,技术+动机+职业,"1. Technical questions on ML/statistics
+2. Why HKUST DS?
+3. Project experience",https://www.ise.ust.hk/,院校官网 + 小红书,live_video,真人视频面试,Zoom,,
+38,中国香港,香港城市大学 (CityU),MSc in Business Analytics,Video / 真人面 / 群面,Kira / Zoom,视项目而定,动机+表达+商业分析认知,"1. Why CityU BA?
+2. Describe a data-driven decision
+3. Group discussion",https://www.cityu.edu.hk/,院校官网 + 小红书,mixed,混合形式,"Zoom,Kira Talent",,
+39,新加坡,新加坡国立大学 (NUS),Master of Business Analytics,两轮面试：机面+真人面,Astronaut（机面）+ Zoom（真人面）,机面：2题，30秒读题+2分钟作答；真人面：20-30分钟,动机+背景匹配+案例分析+领导力,"机面：1. Why BA?
+2. Data analysis opinion
+真人面：
+1. Walk through your resume
+2. A data project end-to-end
+3. How do you translate insights to stakeholders?",https://www.nus.edu.sg/bschool/programs/msc-business-analytics,院校官网 + GMAT Club + 小红书,written_live,笔试/机考+真人面试,"Zoom,Astronaut",2.0,27.0
+40,新加坡,南洋理工大学 (NTU),MSc in Business Analytics,结构化面试+案例问题,Zoom / 线下,10-15分钟,动机+实习深挖+商业分析,"1. Why Finance / Why NTU?
+2. Internship deep dive
+3. NPV / WACC basics
+4. Career plans",https://www.ntu.edu.sg/bschool/programs/msc-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,"Zoom,线下/校园",,12.5
+41,新加坡,新加坡管理大学 (SMU),Master of Professional Accounting / 商科硕士,案例分析视频面试,在线平台,限时阅读案例并作答,商业直觉+数据解读+沟通说服力,"1. Read a business case
+2. Analyze data and present findings
+3. Make a data-driven recommendation",https://www.smu.edu.sg/,院校官网 + 指南者留学,async_video,异步视频面试（录播）,在线机考平台,,
+42,新加坡,新加坡国立大学 (NUS),MSc in Financial Engineering,有面试环节,Zoom,视项目而定,动机+金融概念+行为+案例,"1. Self-intro (1-2min)
+2. CAPM / option pricing
+3. Why NUS FinEng?
+4. Mini case",https://www.nus.edu.sg/,院校官网 + 指南者留学,selective,部分候选人需面试（评估制）,Zoom,,
+43,新加坡,南洋理工大学 (NTU),MSc in Finance,小群面,Zoom,10-15分钟,动机+金融基础+实习深挖,"1. Why Finance / Why NTU?
+2. Internship deep dive
+3. Company valuation basics",https://www.ntu.edu.sg/bschool/programs/msc-finance,院校官网 + 小红书面经,group,群面/小组讨论,Zoom,,12.5
+44,新加坡,新加坡国立大学 (NUS),MSc in Marketing Analytics,有面试环节,Zoom,视项目而定,数据工具使用+项目经验,"1. Why Marketing Analytics?
+2. Tools you use (SQL/Python/Tableau)
+3. Project experience",https://www.nus.edu.sg/bschool/,院校官网 + 小红书,selective,部分候选人需面试（评估制）,Zoom,,
+45,新加坡,南洋理工大学 (NTU),MSc in Data Science,结构化面试,Zoom / 线下,视项目而定,技术+动机+学术兴趣,"1. Explain a ML algorithm
+2. Why NTU DS?
+3. Research interests",https://www.ntu.edu.sg/computing/,院校官网 + 小红书,live_video,真人视频面试,"Zoom,线下/校园",,
+46,新加坡,新加坡管理大学 (SMU),Master of Data Science,面试+写作,Zoom,视项目而定,商业表达+数据思维,"1. Why SMU Data Science?
+2. Business case analysis
+3. Writing component",https://www.smu.edu.sg/,院校官网 + 指南者留学,live_video,真人视频面试,Zoom,,
+47,澳大利亚,悉尼大学 (University of Sydney),Master of Business Analytics,部分申请者需面试,Zoom / 自建平台,视项目而定,技术能力+商业分析认知+职业规划,"1. Describe a predictive analytics project
+2. How do you ensure data quality?
+3. Why University of Sydney?",https://www.sydney.edu.au/business/programs/master-of-business-analytics.html,院校官网 + 新东方,selective,部分候选人需面试（评估制）,"Zoom,自建平台",,
+48,澳大利亚,新南威尔士大学 (UNSW),Master of Data Science,部分项目需面试,Zoom / 自建平台,视项目而定,技术基础+动机+学术背景,"1. Why UNSW Data Science?
+2. Describe your quant background
+3. Mathematical foundations",https://www.unsw.edu.au/study/postgraduate/master-of-data-science,院校官网 + 指南者留学,selective,部分候选人需面试（评估制）,"Zoom,自建平台",,
+49,澳大利亚,墨尔本大学 (University of Melbourne),Master of Data Science,材料审核+部分面试,Zoom / 自建平台,视项目而定,学术背景+技术基础+研究兴趣,"1. Why Melbourne DS?
+2. Explain linear algebra concepts
+3. Research interests",https://unimelb.edu.au/study/courses-and-careers/course/master-of-data-science,院校官网 + 知乎,selective,部分候选人需面试（评估制）,"Zoom,自建平台",,
+50,澳大利亚,莫纳什大学 (Monash University),Master of Data Science,部分项目需面试,Zoom / 自建平台,视项目而定,技术能力+动机+行业兴趣,"1. Why Monash Data Science?
+2. Describe a data project
+3. Career goals in data science",https://www.monash.edu/study/courses-and-careers/course/master-of-data-science,院校官网 + 官方知识库,selective,部分候选人需面试（评估制）,"Zoom,自建平台",,
+51,美国,宾夕法尼亚大学沃顿商学院 (UPenn Wharton),MS in Analytics (MIS),小组讨论(TBD) + 一对一面试,Zoom,TBD约35分钟(5-6人小组讨论) + 1对1约10分钟,小组案例讨论+行为题+领导力评估,"1. Propose a new Leadership Intensive for Wharton students
+2. What went well in the discussion?
+3. What is your leadership style?",https://www.wharton.upenn.edu/programs/masters-in-analytics/apply/ | ChaseDream面经,院校官网 + 小红书/一亩三分地,group,群面/小组讨论,Zoom,,45.0
+52,美国,南加州大学 Dornsife 学院 (USC),MS in Data Science,异步视频面试（录播）,Kira Talent,约5-6题；每题30秒准备+90秒作答,行为题+动机题+职业目标+技术基础,"1. Why USC Data Science?
+2. Describe a data-driven project
+3. What are your career goals?",https://dornsife.usc.edu/data-science/ms-data-science/ | 小红书面经,院校官网 + 小红书,async_video,异步视频面试（录播）,Kira Talent,5.5,
+53,美国,华盛顿大学 (University of Washington),MS in Data Science (MSDS),无强制面试（可选提交补充材料）,,无需面试，通过补充文书展示,无面试，侧重学术背景+项目经历,无面试环节，通过capstone项目展示能力,https://www.cs.washington.edu/academics/degrees/msds,院校官网,none,无强制面试,,,
+54,美国,威斯康星大学麦迪逊分校 (University of Wisconsin-Madison),MS in Analytics (MSA),邀请制面试（校园/电话/视频）,Zoom/电话/线下,约20-30分钟，受邀制,行为题+动机题+技术背景+职业规划,"1. Why Analytics at Wisconsin?
+2. Describe your quantitative background
+3. Career goals and how this program helps",https://www.business.wisc.edu/programs/graduate-bus-analytics/,院校官网,selective,部分候选人需面试（评估制）,"Zoom,线下/校园,电话",,25.0
+55,美国,宾夕法尼亚州立大学 (Penn State),Master of Business Analytics (M.B.An.),无强制面试（需提交文书+推荐信）,,无需面试，通过short essay评估,侧重学术+职业经历文书评估,无面试，通过申请文书和简历评估,https://smeal.psu.edu/programs/graduate/business-analytics,院校官网,none,无强制面试,,,
+56,美国,密歇根州立大学布罗德商学院 (Michigan State/Broad),MS in Business Data Science and Analytics,无强制面试（需提交GMAT/GRE）,,无需面试，通过标化成绩+文书评估,侧重量化背景+GMAT/GRE成绩,无面试，通过GMAT/GRE和文书评估,https://www.ansci.msu.edu/,院校官网,none,无强制面试,,,
+57,美国,罗格斯大学 (Rutgers University),MS in Business Analytics,无强制面试（需提交GRE/GMAT）,,无需面试，通过标化成绩+文书评估,侧重量化背景+职业目标,无面试，通过GRE/GMAT和申请材料评估,https://business.rutgers.edu/programs/business-analytics,院校官网,none,无强制面试,,,
+58,美国,雪城大学 (Syracuse University),MS in Data Science,部分候选人受邀面试,Zoom/电话,约15-20分钟（受邀制）,行为题+技术背景+项目经历,"1. Why Syracuse Data Science?
+2. Describe a data science project
+3. Technical background questions",https://syracuse.edu/college/arts-sciences/data-science/,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,电话",,17.5
+59,美国,圣母大学门多萨商学院 (Notre Dame/Mendoza),MS in Business Analytics (MSBA),行为面试（部分候选人）,Zoom/线下,约20-30分钟,行为题+动机题+案例分析+职业目标,"1. Why Notre Dame MSBA?
+2. Describe a time you used data to make a decision
+3. Career goals",https://www3.nd.edu/~mendoza/programs/graduate/msba/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,25.0
+60,美国,加州大学尔湾分校 (UC Irvine),MS in Business Analytics,无强制面试（需提交GRE/GMAT）,,无需面试，通过标化成绩+文书评估,侧重量化背景+工作经验,无面试，通过GRE/GMAT和申请材料评估,https://www.merage.uci.edu/programs/graduate/business-analytics,院校官网,none,无强制面试,,,
+61,美国,德克萨斯大学奥斯汀分校麦库姆斯商学院 (UT Austin McCombs),MS in Business Analytics (MSBA),部分候选人受邀面试,Zoom/线下,约20-30分钟（受邀制）,行为题+动机题+技术背景+案例分析,"1. Why UT Austin MSBA?
+2. Describe a data-driven decision
+3. How will you contribute to the program?",https://www.mccombs.utexas.edu/graduate/msba/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,25.0
+62,美国,北卡罗来纳大学教堂山分校肯恩-弗莱勒商学院 (UNC Kenan-Flagler),MS in Business Analytics,行为面试（部分候选人）,Zoom/线下,约20-30分钟,行为题+动机题+团队合作+职业目标,"1. Why UNC MSBA?
+2. Describe a team challenge
+3. How does analytics fit your career?",https://www.kenan-flagler.unc.edu/graduate/msba,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,25.0
+63,美国,东北大学 (Northeastern University),MS in Data Science,部分候选人受邀面试,Zoom,约15-20分钟（受邀制）,行为题+技术背景+项目经历+职业规划,"1. Why Northeastern Data Science?
+2. Tell me about a data project
+3. Co-op experience and career goals",https://www.northeastern.edu/dso/academics/data-science-ms/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,Zoom,,17.5
+64,美国,加州大学戴维斯分校 (UC Davis),MS in Business Analytics,无强制面试（需提交GRE/GMAT）,,无需面试，通过标化成绩+文书评估,侧重量化背景+职业目标,无面试，通过GRE/GMAT和申请材料评估,https://www.davis.ucdavis.edu/~msba/,院校官网,none,无强制面试,,,
+65,美国,伊利诺伊大学芝加哥分校 (University of Illinois Chicago),MS in Business Analytics,部分候选人受邀面试,Zoom/电话,约15-20分钟（受邀制）,行为题+动机题+技术背景,"1. Why UIC Business Analytics?
+2. Describe your quantitative experience
+3. Career goals",https://business.uic.edu/programs/graduate/business-analytics,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,电话",,17.5
+66,英国,伦敦商学院 (London Business School),Masters in Analytics and Management,行为面试（邀请制）,Zoom/线下,约30-45分钟,行为题+动机题+案例分析+领导力,"1. Why LBS Analytics and Management?
+2. Describe a data-driven decision you led
+3. Career goals and leadership style",https://www.london.edu/programs/masters-in-analytics-and-management,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,37.5
+67,英国,巴斯大学 (University of Bath),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+商业意识,"1. Why Bath Business Analytics?
+2. How do you apply analytics to business?
+3. Describe a data project",https://www.bath.ac.uk/programs/management/msc-business-analytics/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+68,英国,杜伦大学 (Durham University),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化背景+商业分析理解,"1. Why Durham Business Analytics?
+2. What is your understanding of BA?
+3. Describe your quantitative project",https://www.durham.ac.uk/study/programs/postgraduate/msc-business-analytics/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+69,英国,布里斯托大学 (University of Bristol),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+商业咨询项目,"1. Why Bristol Business Analytics?
+2. How would you approach a business problem with data?
+3. Team project experience",https://www.bristol.ac.uk/courses/postgraduate/msc-business-analytics/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+70,英国,伯明翰大学 (University of Birmingham),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化背景,"1. Why Birmingham Business Analytics?
+2. What skills do you bring to BA?
+3. Career goals",https://www.birmingham.ac.uk/study/degrees/business-analytics,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+71,英国,南安普顿大学 (University of Southampton),MSc Business Analytics and Finance,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+金融分析基础,"1. Why Southampton BA and Finance?
+2. How does data drive financial decisions?
+3. Technical background",https://www.southampton.ac.uk/study/postgraduate/taught/msc-business-analytics-finance,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+72,英国,利兹大学 (University of Leeds),MSc Business Analytics and Decision Sciences,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+决策科学理解,"1. Why Leeds Business Analytics?
+2. How do decision sciences apply to business?
+3. Quantitative background",https://business-school.leeds.ac.uk/study/postgraduate/msc-business-analytics-and-decision-sciences,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+73,英国,兰卡斯特大学 (Lancaster University),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+Microsoft Power BI,"1. Why Lancaster Business Analytics?
+2. What tools have you used for data analysis?
+3. Career goals",https://www.lancaster.ac.uk/school-of-management/study/postgraduate/msc-business-analytics,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+74,英国,诺丁汉大学 (University of Nottingham),MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化基础,"1. Why Nottingham Business Analytics?
+2. Describe your data analysis experience
+3. Career goals",https://www.nottingham.ac.uk/business/study/postgraduate/msc-business-analytics,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+75,英国,"贝叶斯商学院（原卡斯商学院）(Bayes Business School, City)",MSc Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+金融与商业智能,"1. Why Bayes Business Analytics?
+2. How does analytics drive business value?
+3. Career goals in finance/tech",https://www.bayes.city.ac.uk/programs/msc-business-analytics/,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+76,中国香港,香港岭南大学 (Lingnan University),MSc in AI and Business Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+AI/BA基础+职业规划,"1. Why Lingnan AI and BA?
+2. What is your understanding of AI in business?
+3. Career goals",https://www.ln.edu.hk/program/msc-ai-and-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+77,中国澳门,澳门科技大学 (Macau University of Science and Technology),MSc in Business Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+量化基础+职业规划,"1. Why MUST Business Analytics?
+2. Describe your quantitative background
+3. Career goals",https://www.must.edu.mo/program/msc-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+78,中国澳门,澳门大学 (University of Macau),MSc in Business Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+数据分析经验+职业规划,"1. Why UM Business Analytics?
+2. What data analysis experience do you have?
+3. How will this program help your career?",https://www.fcs.um.edu.mo/program/msc-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+79,中国香港,香港浸会大学 (HKBU),MSc in Business Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+商业分析理解+职业规划,"1. Why HKBU Business Analytics?
+2. What is BA and why do you want to study it?
+3. Career goals",https://www.hkbu.edu.hk/program/msc-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+80,中国香港,香港中文大学 (CUHK),MSc in Business Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+数据分析基础+职业规划,"1. Why CUHK Business Analytics?
+2. What data projects have you done?
+3. Career goals",https://www.baf.cuhk.edu.hk/program/msc-business-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+81,中国香港,香港理工大学 (PolyU),MSc in Data Science,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+技术基础+AI伦理,"1. Why PolyU Data Science?
+2. What is your programming experience?
+3. AI ethics considerations",https://www.polyu.edu.hk/program/msc-data-science,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+82,中国香港,香港城市大学 (CityU),MSc in Artificial Intelligence,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+AI技术基础+项目经历,"1. Why CityU AI?
+2. What AI projects have you done?
+3. Machine learning knowledge",https://www.cityu.edu.hk/program/msc-artificial-intelligence,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+83,中国香港,香港城市大学 (CityU),MSc in Data Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+数据分析基础+职业规划,"1. Why CityU Data Analytics?
+2. What data analysis tools do you know?
+3. Career goals",https://www.cityu.edu.hk/program/msc-data-analytics,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+84,中国香港,香港理工大学 (PolyU),MSc in Business Data Intelligence and Analytics,视频面试（Zoom）,Zoom,约15-20分钟,行为题+动机题+商业智能基础+职业规划,"1. Why PolyU BDC?
+2. What is business intelligence?
+3. Career goals",https://www.polyu.edu.hk/program/msc-bdc,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,17.5
+85,中国香港,香港中文大学 (CUHK),MSc in Data Science (ASDS),视频面试（Zoom）+ 编程测试,Zoom,约20-30分钟 + 编程测试,行为题+技术题（统计学/机器学习/编程）+开放性问题,"1. Bayes vs Frequentist
+2. Overfitting vs Underfitting
+3. Python coding task
+4. Data privacy ethics",https://www.asds.cuhk.edu.hk/program/msc-data-science,院校官网 + 小红书面经,live_video,真人视频面试,Zoom,,25.0
+86,新加坡,新加坡国立大学 (NUS),Master of Technology in Enterprise Business Analytics,真人单面 + 笔试,Zoom/线下,笔试2题(30秒准备+2分钟作答) + 面试15-30分钟,行为题+专业技术题+职业规划+商业案例,"1. Why NUS Enterprise BA?
+2. Statistical/ML technical questions
+3. Career goals
+4. Business case analysis",https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-enterprise-business-analytics,院校官网 + 指南者留学,written_live,笔试/机考+真人面试,"Zoom,线下/校园",2.0,24.5
+87,新加坡,新加坡管理大学 (SMU),Master of Science in Analytics,线上机考 + 真人面谈,Zoom,机考(随机话题) + 真人面15-20分钟,行为题+动机题+案例分析+职业规划,"1. Why SMU Analytics?
+2. Share an experience from your PS
+3. Teamwork and problem-solving
+4. Career goals",https://www.smu.edu.sg/programs/master-of-science-in-analytics,院校官网 + 小红书面经,written_live,笔试/机考+真人面试,Zoom,,17.5
+88,新加坡,新加坡管理大学 (SMU),MSc in Data Analytics and Business Intelligence,线上机考 + 真人面谈,Zoom,机考(随机话题) + 真人面15-20分钟,行为题+动机题+数据分析基础+商业智能理解,"1. Why SMU Data Analytics?
+2. What is business intelligence?
+3. Data analysis experience",https://www.smu.edu.sg/programs,院校官网 + 小红书面经,written_live,笔试/机考+真人面试,Zoom,,17.5
+89,新加坡,新加坡国立大学 (NUS),MSc in Data Science,视频面试（Zoom/Skype）,Zoom/Skype,约15-30分钟,行为题+技术题+研究兴趣+职业规划,"1. Why NUS Data Science?
+2. Research interests
+3. Technical questions on ML/statistics
+4. Career goals",https://www.comp.nus.edu.sg/program/msc-data-science,院校官网 + 小红书面经,live_video,真人视频面试,"Zoom,Skype",,22.5
+90,新加坡,新加坡管理大学 (SMU),Master of Professional Accounting (Analytics方向),线上机考 + 真人面谈,Zoom,机考(随机话题) + 真人面15-20分钟,行为题+动机题+会计/分析基础+职业规划,"1. Why SMU Professional Accounting?
+2. How does analytics apply to accounting?
+3. Career goals",https://www.smu.edu.sg/programs/master-of-professional-accounting,院校官网 + 小红书面经,written_live,笔试/机考+真人面试,Zoom,,17.5
+91,澳大利亚,昆士兰大学 (University of Queensland),Master of Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化背景+技术基础,"1. Why UQ Data Science?
+2. Describe your quantitative background
+3. Career goals",https://www.uq.edu.au/study/course/courses/master-of-data-science,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+92,澳大利亚,澳大利亚国立大学 (Australian National University),Master of Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+研究兴趣,"1. Why ANU Data Science?
+2. What area of data science interests you?
+3. Technical background",https://cbe.anu.edu.au/programs/master-data-science,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+93,澳大利亚,悉尼科技大学 (University of Technology Sydney),Master of Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+职业规划,"1. Why UTS Data Science?
+2. Describe a data project
+3. Career goals",https://www.uts.edu.au/study/courses/master-data-science,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+94,澳大利亚,皇家墨尔本理工大学 (RMIT University),Master of Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+职业规划,"1. Why RMIT Data Science?
+2. What data science tools do you know?
+3. Career goals",https://www.rmit.edu.au/study/courses/master-data-science,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+95,澳大利亚,迪肯大学 (Deakin University),Master of Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术基础+职业规划,"1. Why Deakin Data Science?
+2. Describe your data analysis experience
+3. Career goals",https://www.deakin.edu.au/courses/master-data-science,院校官网 + 小红书面经,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+96,美国,亚利桑那州立大学凯瑞商学院 (Arizona State Carey),MS in Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化背景+职业规划,"1. Why ASU Business Analytics?
+2. Describe your quantitative experience
+3. Career goals",https://carey.wpc.asu.edu/programs/graduate/business-analytics,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+97,美国,凯斯西储大学 (Case Western Reserve University),MS in Business Analytics,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术背景+职业规划,"1. Why Case Western Business Analytics?
+2. Describe a data project
+3. Career goals",https://weatherhead.case.edu/programs/business-analytics,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+98,美国,塔夫茨大学 (Tufts University),MS in Data Science,部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+技术背景+研究兴趣,"1. Why Tufts Data Science?
+2. Research interests in data science
+3. Technical background",https://www.tufts.edu/arts-sciences/data-science/programs/ms-data-science,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
+99,美国,克莱姆森大学 (Clemson University),MS in Business Analytics,部分候选人面试（评估制）,Zoom/电话,约15-20分钟（受邀制）,行为题+动机题+量化背景+职业规划,"1. Why Clemson Business Analytics?
+2. Describe your data analysis experience
+3. Career goals",https://www.clemson.edu/business/graduate-programs/business-analytics,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,电话",,17.5
+100,美国,乔治亚大学 (University of Georgia),MS in Business Analytics (Terry College),部分候选人面试（评估制）,Zoom/线下,约15-20分钟（受邀制）,行为题+动机题+量化背景+职业规划,"1. Why UGA Terry Business Analytics?
+2. Describe your quantitative background
+3. Career goals",https://www.terry.uga.edu/graduate-programs/business-analytics,院校官网 + 一亩三分地,selective,部分候选人需面试（评估制）,"Zoom,线下/校园",,17.5
