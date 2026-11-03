@@ -1,0 +1,1052 @@
+[
+ {
+  "id": 1,
+  "official_status": 200,
+  "official_len": 14558,
+  "quote_len": 227,
+  "quote_found": true
+ },
+ {
+  "id": 2,
+  "official_status": 200,
+  "official_len": 14334,
+  "quote_len": 39,
+  "quote_found": true
+ },
+ {
+  "id": 3,
+  "official_status": 200,
+  "official_len": 9720,
+  "quote_len": 161,
+  "quote_found": true
+ },
+ {
+  "id": 4,
+  "official_status": 200,
+  "official_len": 18061,
+  "quote_len": 142,
+  "quote_found": true
+ },
+ {
+  "id": 5,
+  "official_status": 200,
+  "official_len": 11379,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 6,
+  "official_status": 200,
+  "official_len": 10594,
+  "quote_len": 162,
+  "quote_found": false
+ },
+ {
+  "id": 7,
+  "official_status": 200,
+  "official_len": 22873,
+  "quote_len": 70,
+  "quote_found": true
+ },
+ {
+  "id": 8,
+  "official_status": 200,
+  "official_len": 24425,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 9,
+  "official_status": 200,
+  "official_len": 6579,
+  "quote_len": 16,
+  "quote_found": true
+ },
+ {
+  "id": 10,
+  "official_status": 200,
+  "official_len": 13545,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 11,
+  "official_status": 200,
+  "official_len": 22712,
+  "quote_len": 155,
+  "quote_found": true
+ },
+ {
+  "id": 12,
+  "official_status": 200,
+  "official_len": 14702,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 13,
+  "official_status": 200,
+  "official_len": 86225,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 14,
+  "official_status": 200,
+  "official_len": 20736,
+  "quote_len": 65,
+  "quote_found": true
+ },
+ {
+  "id": 15,
+  "official_status": 200,
+  "official_len": 23910,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 16,
+  "official_status": 200,
+  "official_len": 11312,
+  "quote_len": 207,
+  "quote_found": true
+ },
+ {
+  "id": 17,
+  "official_status": 200,
+  "official_len": 23013,
+  "quote_len": 172,
+  "quote_found": true
+ },
+ {
+  "id": 18,
+  "official_status": 200,
+  "official_len": 15162,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 19,
+  "official_status": 200,
+  "official_len": 13313,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 20,
+  "official_status": 200,
+  "official_len": 12658,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 21,
+  "official_status": 200,
+  "official_len": 21914,
+  "quote_len": 28,
+  "quote_found": true
+ },
+ {
+  "id": 22,
+  "official_status": 200,
+  "official_len": 12438,
+  "quote_len": 187,
+  "quote_found": true
+ },
+ {
+  "id": 23,
+  "official_status": 200,
+  "official_len": 199,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 24,
+  "official_status": 200,
+  "official_len": 27134,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 25,
+  "official_status": 200,
+  "official_len": 15885,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 26,
+  "official_status": 200,
+  "official_len": 8945,
+  "quote_len": 200,
+  "quote_found": true
+ },
+ {
+  "id": 27,
+  "official_status": 200,
+  "official_len": 9252,
+  "quote_len": 28,
+  "quote_found": true
+ },
+ {
+  "id": 28,
+  "official_status": 200,
+  "official_len": 14169,
+  "quote_len": 233,
+  "quote_found": true
+ },
+ {
+  "id": 29,
+  "official_status": 200,
+  "official_len": 9888,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 30,
+  "official_status": 200,
+  "official_len": 14453,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 31,
+  "official_status": 200,
+  "official_len": 14940,
+  "quote_len": 141,
+  "quote_found": true
+ },
+ {
+  "id": 32,
+  "official_status": 200,
+  "official_len": 11368,
+  "quote_len": 29,
+  "quote_found": true
+ },
+ {
+  "id": 33,
+  "official_status": 200,
+  "official_len": 19338,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 34,
+  "official_status": 200,
+  "official_len": 21237,
+  "quote_len": 110,
+  "quote_found": true
+ },
+ {
+  "id": 35,
+  "official_status": 200,
+  "official_len": 5206,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 36,
+  "official_status": 200,
+  "official_len": 12169,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 37,
+  "official_status": 200,
+  "official_len": 12272,
+  "quote_len": 231,
+  "quote_found": true
+ },
+ {
+  "id": 38,
+  "official_status": 200,
+  "official_len": 22201,
+  "quote_len": 213,
+  "quote_found": true
+ },
+ {
+  "id": 39,
+  "official_status": 200,
+  "official_len": 65984,
+  "quote_len": 160,
+  "quote_found": true
+ },
+ {
+  "id": 40,
+  "official_status": 200,
+  "official_len": 8064,
+  "quote_len": 7,
+  "quote_found": true
+ },
+ {
+  "id": 41,
+  "official_status": 200,
+  "official_len": 8464,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 42,
+  "official_status": 200,
+  "official_len": 7108,
+  "quote_len": 132,
+  "quote_found": true
+ },
+ {
+  "id": 43,
+  "official_status": 200,
+  "official_len": 25140,
+  "quote_len": 140,
+  "quote_found": true
+ },
+ {
+  "id": 44,
+  "official_status": 200,
+  "official_len": 19231,
+  "quote_len": 80,
+  "quote_found": true
+ },
+ {
+  "id": 45,
+  "official_status": 200,
+  "official_len": 29421,
+  "quote_len": 165,
+  "quote_found": true
+ },
+ {
+  "id": 46,
+  "official_status": 200,
+  "official_len": 9997,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 47,
+  "official_status": 200,
+  "official_len": 45929,
+  "quote_len": 173,
+  "quote_found": true
+ },
+ {
+  "id": 48,
+  "official_status": 200,
+  "official_len": 4291,
+  "quote_len": 125,
+  "quote_found": false
+ },
+ {
+  "id": 49,
+  "official_status": 200,
+  "official_len": 47835,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 50,
+  "official_status": 200,
+  "official_len": 33232,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 51,
+  "official_status": 200,
+  "official_len": 15223,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 52,
+  "official_status": 200,
+  "official_len": 11901,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 53,
+  "official_status": 200,
+  "official_len": 36063,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 54,
+  "official_status": 200,
+  "official_len": 6848,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 55,
+  "official_status": 200,
+  "official_len": 7441,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 56,
+  "official_status": 200,
+  "official_len": 22038,
+  "quote_len": 219,
+  "quote_found": true
+ },
+ {
+  "id": 57,
+  "official_status": 200,
+  "official_len": 8336,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 58,
+  "official_status": 200,
+  "official_len": 15890,
+  "quote_len": 153,
+  "quote_found": true
+ },
+ {
+  "id": 59,
+  "official_status": 200,
+  "official_len": 22239,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 60,
+  "official_status": 200,
+  "official_len": 42353,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 61,
+  "official_status": 200,
+  "official_len": 33134,
+  "quote_len": 218,
+  "quote_found": true
+ },
+ {
+  "id": 62,
+  "official_status": 200,
+  "official_len": 17274,
+  "quote_len": 20,
+  "quote_found": true
+ },
+ {
+  "id": 63,
+  "official_status": 200,
+  "official_len": 28494,
+  "quote_len": 255,
+  "quote_found": true
+ },
+ {
+  "id": 64,
+  "official_status": 200,
+  "official_len": 6985,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 65,
+  "official_status": 200,
+  "official_len": 10138,
+  "quote_len": 90,
+  "quote_found": true
+ },
+ {
+  "id": 66,
+  "official_status": 200,
+  "official_len": 21189,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 67,
+  "official_status": 200,
+  "official_len": 11911,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 68,
+  "official_status": 200,
+  "official_len": 6178,
+  "quote_len": 127,
+  "quote_found": true
+ },
+ {
+  "id": 69,
+  "official_status": 200,
+  "official_len": 11843,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 70,
+  "official_status": 200,
+  "official_len": 290700,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 71,
+  "official_status": 200,
+  "official_len": 4067,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 72,
+  "official_status": 200,
+  "official_len": 15736,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 73,
+  "official_status": 200,
+  "official_len": 16645,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 74,
+  "official_status": 200,
+  "official_len": 17895,
+  "quote_len": 99,
+  "quote_found": false
+ },
+ {
+  "id": 75,
+  "official_status": 200,
+  "official_len": 18575,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 76,
+  "official_status": 200,
+  "official_len": 34837,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 77,
+  "official_status": 200,
+  "official_len": 23799,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 78,
+  "official_status": 200,
+  "official_len": 204888,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 79,
+  "official_status": 200,
+  "official_len": 25079,
+  "quote_len": 242,
+  "quote_found": true
+ },
+ {
+  "id": 80,
+  "official_status": 200,
+  "official_len": 48625,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 81,
+  "official_status": 200,
+  "official_len": 32342,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 82,
+  "official_status": 200,
+  "official_len": 15471,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 83,
+  "official_status": 200,
+  "official_len": 25057,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 84,
+  "official_status": 200,
+  "official_len": 42410,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 85,
+  "official_status": 200,
+  "official_len": 56370,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 86,
+  "official_status": 200,
+  "official_len": 32858,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 87,
+  "official_status": 200,
+  "official_len": 63024,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 88,
+  "official_status": 200,
+  "official_len": 55736,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 89,
+  "official_status": 200,
+  "official_len": 28444,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 90,
+  "official_status": 200,
+  "official_len": 62208,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 91,
+  "official_status": 200,
+  "official_len": 70550,
+  "quote_len": 169,
+  "quote_found": true
+ },
+ {
+  "id": 92,
+  "official_status": 200,
+  "official_len": 6874,
+  "quote_len": 109,
+  "quote_found": true
+ },
+ {
+  "id": 93,
+  "official_status": 200,
+  "official_len": 9312,
+  "quote_len": 87,
+  "quote_found": true
+ },
+ {
+  "id": 94,
+  "official_status": 200,
+  "official_len": 8868,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 95,
+  "official_status": 200,
+  "official_len": 3089,
+  "quote_len": 213,
+  "quote_found": true
+ },
+ {
+  "id": 96,
+  "official_status": 200,
+  "official_len": 9719,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 97,
+  "official_status": 200,
+  "official_len": 9500,
+  "quote_len": 193,
+  "quote_found": true
+ },
+ {
+  "id": 98,
+  "official_status": 200,
+  "official_len": 16931,
+  "quote_len": 68,
+  "quote_found": true
+ },
+ {
+  "id": 99,
+  "official_status": 200,
+  "official_len": 48729,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 100,
+  "official_status": 200,
+  "official_len": 8208,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 101,
+  "official_status": 200,
+  "official_len": 38784,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 102,
+  "official_status": 200,
+  "official_len": 5100,
+  "quote_len": 94,
+  "quote_found": true
+ },
+ {
+  "id": 103,
+  "official_status": 200,
+  "official_len": 15751,
+  "quote_len": 202,
+  "quote_found": true
+ },
+ {
+  "id": 104,
+  "official_status": 200,
+  "official_len": 26291,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 105,
+  "official_status": 200,
+  "official_len": 11998,
+  "quote_len": 50,
+  "quote_found": true
+ },
+ {
+  "id": 106,
+  "official_status": 200,
+  "official_len": 5355,
+  "quote_len": 193,
+  "quote_found": true
+ },
+ {
+  "id": 107,
+  "official_status": 200,
+  "official_len": 8479,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 108,
+  "official_status": 200,
+  "official_len": 10202,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 109,
+  "official_status": 200,
+  "official_len": 1927,
+  "quote_len": 70,
+  "quote_found": true
+ },
+ {
+  "id": 110,
+  "official_status": 200,
+  "official_len": 9101,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 111,
+  "official_status": 200,
+  "official_len": 5895,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 112,
+  "official_status": 200,
+  "official_len": 16147,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 113,
+  "official_status": 200,
+  "official_len": 7161,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 114,
+  "official_status": 200,
+  "official_len": 13981,
+  "quote_len": 68,
+  "quote_found": true
+ },
+ {
+  "id": 115,
+  "official_status": 200,
+  "official_len": 13166,
+  "quote_len": 109,
+  "quote_found": true
+ },
+ {
+  "id": 116,
+  "official_status": 200,
+  "official_len": 2762,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 117,
+  "official_status": 200,
+  "official_len": 35854,
+  "quote_len": 112,
+  "quote_found": true
+ },
+ {
+  "id": 118,
+  "official_status": 200,
+  "official_len": 1052,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 119,
+  "official_status": 200,
+  "official_len": 87843,
+  "quote_len": 82,
+  "quote_found": true
+ },
+ {
+  "id": 120,
+  "official_status": 200,
+  "official_len": 61605,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 121,
+  "official_status": 200,
+  "official_len": 14023,
+  "quote_len": 197,
+  "quote_found": true
+ },
+ {
+  "id": 122,
+  "official_status": 200,
+  "official_len": 11664,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 123,
+  "official_status": 200,
+  "official_len": 18822,
+  "quote_len": 3,
+  "quote_found": true
+ },
+ {
+  "id": 124,
+  "official_status": 200,
+  "official_len": 12167,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 125,
+  "official_status": 200,
+  "official_len": 4371,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 126,
+  "official_status": 200,
+  "official_len": 17004,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 127,
+  "official_status": 200,
+  "official_len": 14351,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 128,
+  "official_status": 200,
+  "official_len": 7995,
+  "quote_len": 119,
+  "quote_found": true
+ },
+ {
+  "id": 129,
+  "official_status": 200,
+  "official_len": 5564,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 130,
+  "official_status": 200,
+  "official_len": 2481,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 131,
+  "official_status": 200,
+  "official_len": 3557,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 132,
+  "official_status": 200,
+  "official_len": 166248,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 133,
+  "official_status": 200,
+  "official_len": 17457,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 134,
+  "official_status": 200,
+  "official_len": 28006,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 135,
+  "official_status": 200,
+  "official_len": 26843,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 136,
+  "official_status": 200,
+  "official_len": 42706,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 137,
+  "official_status": 200,
+  "official_len": 17479,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 138,
+  "official_status": 200,
+  "official_len": 33009,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 139,
+  "official_status": 200,
+  "official_len": 14020,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 140,
+  "official_status": 200,
+  "official_len": 20584,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 141,
+  "official_status": 0,
+  "official_len": 77632,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 142,
+  "official_status": 0,
+  "official_len": 25071,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 143,
+  "official_status": 200,
+  "official_len": 42847,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 144,
+  "official_status": 200,
+  "official_len": 20766,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 145,
+  "official_status": 200,
+  "official_len": 5189,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 146,
+  "official_status": 200,
+  "official_len": 14236,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 147,
+  "official_status": 200,
+  "official_len": 9046,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 148,
+  "official_status": 200,
+  "official_len": 9033,
+  "quote_len": 0,
+  "quote_found": false
+ },
+ {
+  "id": 149,
+  "official_status": 200,
+  "official_len": 8633,
+  "quote_len": 4,
+  "quote_found": true
+ },
+ {
+  "id": 150,
+  "official_status": 200,
+  "official_len": 369,
+  "quote_len": 0,
+  "quote_found": false
+ }
+]

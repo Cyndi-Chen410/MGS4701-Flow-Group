@@ -1,0 +1,904 @@
+{
+ "rows": [
+  {
+   "id": 1,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 2,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 3,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 4,
+   "documented": 1,
+   "format": "Asynchronous video",
+   "platform": "Not stated"
+  },
+  {
+   "id": 5,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 6,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 7,
+   "documented": 1,
+   "format": "Asynchronous video",
+   "platform": "Kira Talent"
+  },
+  {
+   "id": 8,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 9,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 10,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 11,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 12,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 13,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 14,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 15,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 16,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 17,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 18,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 19,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 20,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 21,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 22,
+   "documented": 1,
+   "format": "Asynchronous video",
+   "platform": "Kira Talent"
+  },
+  {
+   "id": 23,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 24,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 25,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 26,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 27,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 28,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 29,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 30,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 31,
+   "documented": 1,
+   "format": "Asynchronous video",
+   "platform": "Not stated"
+  },
+  {
+   "id": 32,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 33,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 34,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 35,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 36,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 37,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 38,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 39,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 40,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 41,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 42,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 43,
+   "documented": 1,
+   "format": "Asynchronous video",
+   "platform": "Not stated"
+  },
+  {
+   "id": 44,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 45,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 46,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 47,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 48,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 49,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 50,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 51,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 52,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 53,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 54,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 55,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 56,
+   "documented": 1,
+   "format": "Live 1:1",
+   "platform": "Zoom/Teams/Skype"
+  },
+  {
+   "id": 57,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 58,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 59,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 60,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 61,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 62,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 63,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 64,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 65,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 66,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 67,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 68,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 69,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 70,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 71,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 72,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 73,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 74,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 75,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 76,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 77,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 78,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 79,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 80,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 81,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 82,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 83,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 84,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 85,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 86,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 87,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 88,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 89,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 90,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 91,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 92,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 93,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 94,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 95,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 96,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 97,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 98,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 99,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 100,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 101,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 102,
+   "documented": 1,
+   "format": "Panel",
+   "platform": "Not stated"
+  },
+  {
+   "id": 103,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 104,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 105,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 106,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 107,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 108,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 109,
+   "documented": 1,
+   "format": "None",
+   "platform": "Not stated"
+  },
+  {
+   "id": 110,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 111,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 112,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 113,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 114,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 115,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 116,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 117,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 118,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 119,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 120,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 121,
+   "documented": 1,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 122,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 123,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 124,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 125,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 126,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 127,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 128,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 129,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 130,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 131,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 132,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 133,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 134,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 135,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 136,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 137,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 138,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 139,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 140,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 141,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 142,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 143,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 144,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 145,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 146,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 147,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 148,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 149,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  },
+  {
+   "id": 150,
+   "documented": 0,
+   "format": "Unknown",
+   "platform": "Not stated"
+  }
+ ]
+}

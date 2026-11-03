@@ -1,0 +1,335 @@
+{
+ "documented": {
+  "n": 150,
+  "accuracy": 0.7333333333333333,
+  "kappa": 0.41463414634146323,
+  "ci": [
+   0.28903076030179925,
+   0.5398773006134969
+  ],
+  "tp": 25,
+  "tn": 85,
+  "fp": 0,
+  "fn": 40
+ },
+ "format": {
+  "n": 37,
+  "accuracy": 0.6216216216216216,
+  "kappa": 0.4876360039564787,
+  "ci": [
+   0.32198952879581155,
+   0.6656626506024097
+  ],
+  "table": {
+   "Panel": {
+    "Panel": 1,
+    "Live 1:1": 0,
+    "Asynchronous video": 0,
+    "None": 0,
+    "Unknown": 3,
+    "Test": 0
+   },
+   "Asynchronous video": {
+    "Panel": 0,
+    "Live 1:1": 1,
+    "Asynchronous video": 11,
+    "None": 0,
+    "Unknown": 5,
+    "Test": 0
+   },
+   "Live 1:1": {
+    "Panel": 0,
+    "Live 1:1": 10,
+    "Asynchronous video": 0,
+    "None": 1,
+    "Unknown": 3,
+    "Test": 1
+   },
+   "Test": {
+    "Panel": 0,
+    "Live 1:1": 0,
+    "Asynchronous video": 0,
+    "None": 0,
+    "Unknown": 0,
+    "Test": 1
+   }
+  }
+ },
+ "platform": {
+  "n": 31,
+  "accuracy": 0.4838709677419355,
+  "kappa": 0.4171562867215041,
+  "ci": [
+   0.24473975636766337,
+   0.5856622114216282
+  ]
+ },
+ "disagreements_doc": [
+  {
+   "id": "2",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "Kira Talent",
+   "auto_plat": "Kira Talent",
+   "sents": "提交网申并支付申请费后，在Checklist中会看到“Video Interview”，Kira面试形式，面试包括3个行为问题，90秒准备时间，180秒内回答完毕。 就业岗位： 有算法工程师，分析咨询师，商业分析师，数据分析师，投资分析师等。（更多详情，官网可查） 一、面试流程概述： 提交网申并支付申请费后，在Checklist中会看到“Video Interview”，Kira面试形式，面试包括3个行为问题，90秒准备时间，180秒内回答完毕。完成video后，申请才开始review."
+  },
+  {
+   "id": "6",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Live 1:1",
+   "hand_plat": "Zoom/Teams/Skype",
+   "auto_plat": "Zoom/Teams/Skype",
+   "sents": "We do not offer open interviews for MQM: Business Analytics candidates. Interviews will be extended by invitation after careful review of your application materials. Apply to MQM Master of Quantitative Management: Business Analytics Deadlines Round Application Deadline Interview Decision Sent Decision Release Deposit Deadline Round 1 Oct. Tell Your Story Your resume, application essays, recommendation, and interview are what weave fit, passion, and impact together into your \"story. Interview: We do not offer open interviews for MQM: Business Analytics candidates. Interviews will be extended by invitation after careful review of your application materials. Most interviews will occur via video-conference; North Carolina residents may have the opportunity to interview on campus by invitation. Interviews are conducted with individual applicants by staff, alumni, or select second-year MBA students."
+  },
+  {
+   "id": "7",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "Kira Talent",
+   "auto_plat": "Kira Talent",
+   "sents": "KIRA Video Interview - by invitation only after application is submitted KIRA Video Interview - by invitation only after application is submitted International applicants only: TOEFL or IELTS exam scores are required to demonstrate proficiency in English."
+  },
+  {
+   "id": "8",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "Kira Talent",
+   "auto_plat": "Kira Talent",
+   "sents": "[已录] JHU BARM Kira 面经 [2020.03.11]"
+  },
+  {
+   "id": "9",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "6道口语：30s准备 45s回答 1道写作：5min 无摄像头 Louis that you are excited to visit(基本必考） 写作： You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is Wednesday at 10 am on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 am. What should the coach do? You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is on Wednesday at 10 AM on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 AM. Faced with this dilemma, what should the student do? 面试冲突：You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is Wednesday at 10 am on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 am. What should the coach do? You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is on Wednesday at 10 AM on the north side of town. Louis that you are excited to visit(基本必考) 写作: You have been offered an opportunity to interview for an internship with acompany that is on your target list. The interview is Wednesday at 10 am on thenorth side of town. On Tuesday, you receive an offer from your top choicecompany to interview on the same day at 11 am."
+  },
+  {
+   "id": "11",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Live 1:1",
+   "hand_plat": "Zoom/Teams/Skype",
+   "auto_plat": "Zoom/Teams/Skype",
+   "sents": "In place of essays and letters of recommendation, applicants will demonstrate their readiness for the program through a programming assessment and interview. edu/people/faculty-interviews) * About UMSI Toggle submenu * [Dean’s welcome](https://si. edu/people/faculty-interviews) * About UMSI Toggle submenu * [Dean’s welcome](https://www. In place of essays and letters of recommendation, applicants will demonstrate their readiness for the program through a programming assessment and interview. Applicants will still complete a basic application and pay a $75 application fee ($90 for international applicants), but the assessment and interview are offered at no charge. Both assessments are paired with a 30- to 45-minute Zoom interview with a member of the UMSI enrollment team, covering the same academic areas."
+  },
+  {
+   "id": "16",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Live 1:1",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Applicants may be asked to participate in a short (15 to 25 minute) virtual interview to discuss their interests in the program and to assess their quantitative background and preparedness for the MSBA program. k , for possible extensions to the int'l deadline Apply Now Admissions Requirements Applicants may be asked to participate in a short (15 to 25 minute) virtual interview to discuss their interests in the program and to assess their quantitative background and preparedness for the MSBA program."
+  },
+  {
+   "id": "21",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Unknown",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Interview (by invitation only). Interview (by invitation only)."
+  },
+  {
+   "id": "22",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "Kira Talent",
+   "auto_plat": "Kira Talent",
+   "sents": "Virtual interview: This is a one-way interview that will be recorded and sent to Smeal's admissions team upon submission. You will be asked to respond to three behavioral questions on video. Official English language proficiency exam scores (for ) Application fee Part 2: Virtual Interview and Essay via Kira Talent Within 24 hours of initiating your online application, you will receive a link to complete your virtual interview and essay via Kira Talent. Ensure completion of both your virtual interview and essay within seven business days of submitting your Graduate School Online Application. Virtual interview: This is a one-way interview that will be recorded and sent to Smeal's admissions team upon submission. Essay: After completing the virtual interview in Kira, you will be asked to respond to an admissions essay question in written form during a timed session."
+  },
+  {
+   "id": "23",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "School platform",
+   "auto_plat": "Not stated",
+   "sents": "The application will have a series of rotating video essays. Students will answer one video essay question within the application system."
+  },
+  {
+   "id": "26",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Asynchronous video",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "As part of our application process, we require a video assessment. During this assessment, members of our Admissions Committee will ask you a series of questions to better understand you as an individual."
+  },
+  {
+   "id": "27",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Interview by invitation only Interview by invitation only View Audio Description YOU ARE NOT ALONE Empower Your Career 85."
+  }
+ ],
+ "disagreements_fmt": [
+  {
+   "id": "1",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 1,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "None",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Interviews are required for admission to the MBAn program and are offered by invitation only. An interview invitation means that your application has reached an advanced stage of consideration, but it does not guarantee admission. Committee will release decisions on the dates listed above; however, decisions will be released early for candidates who have been denied admission without an interview. English language ability is assessed during the interview process. Review MBAn FAQs How Does the MIT Sloan MBAn Interview Process Work? Interviews are required for admission to the MBAn program and are offered by invitation only. An interview invitation means that your application has reached an advanced stage of consideration, but it does not guarantee admission. The MBAn interview includes behavioral and technical questions. Interviews are conducted virtually and scheduled in Eastern Time."
+  },
+  {
+   "id": "9",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "6道口语：30s准备 45s回答 1道写作：5min 无摄像头 Louis that you are excited to visit(基本必考） 写作： You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is Wednesday at 10 am on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 am. What should the coach do? You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is on Wednesday at 10 AM on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 AM. Faced with this dilemma, what should the student do? 面试冲突：You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is Wednesday at 10 am on the north side of town. On Tuesday, you receive an offer from your top choice company to interview on the same day at 11 am. What should the coach do? You have been offered an opportunity to interview for an internship with a company that is on your target list. The interview is on Wednesday at 10 AM on the north side of town. Louis that you are excited to visit(基本必考) 写作: You have been offered an opportunity to interview for an internship with acompany that is on your target list. The interview is Wednesday at 10 am on thenorth side of town. On Tuesday, you receive an offer from your top choicecompany to interview on the same day at 11 am."
+  },
+  {
+   "id": "27",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Interview by invitation only Interview by invitation only View Audio Description YOU ARE NOT ALONE Empower Your Career 85."
+  },
+  {
+   "id": "28",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 1,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Kira Talent",
+   "auto_plat": "Not stated",
+   "sents": "All applicants will have 7 days to complete the assessment upon receiving access to the video submission platform. The number of questions asked depends on the program(s) you applied to and will take no more than 30 minutes to complete. How You’ll Hear from McCombs Once the admissions committee has reviewed applications and interviewed selected applicants, we will begin sending decisions."
+  },
+  {
+   "id": "34",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Once your application is complete, you may receive an invitation to interview. Interviews are by invitation only. Once your application is complete, you may receive an invitation to interview. Interviews are by invitation only."
+  },
+  {
+   "id": "37",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Unknown",
+   "hand_plat": "In person",
+   "auto_plat": "Not stated",
+   "sents": "Interviews are by invitation only. After reviewing completed applications, the Admissions Committee may invite select candidates to interview. Interviews can be conducted virtually for any candidates who are unable to travel to campus. The Career Management Center (CMC) provides personalized support throughout the program, including career coaching, resume reviews, interview preparation, networking opportunities, and employer connections to help students prepare for their job search and long-term career success. Will there be an interview during the application process? Interviews are by invitation only. After reviewing completed applications, the Admissions Committee may invite select candidates to interview. Interviews can be conducted virtually for any candidates who are unable to travel to campus."
+  },
+  {
+   "id": "47",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 1,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Test",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "Applicants will be considered by our admissions committee for an interview after they have submitted an application. ... Applicants should prepare for a 25- to 30-minute interview. **(150 words)** * Admissions interviews are an important component of our comprehensive and holistic evaluation process. Applicants will be considered by our admissions committee for an interview after they have submitted an application. terviews are a required part of the application process, and if invited by the Graduate Admissions Office, applicants are strongly encouraged to sign up for an interview as soon as you receive the initial invitation. The admissions committee may also render a decision without an interview if it feels that it has sufficient information to do so. Here are a few notes about the admissions interview: * Interviews are conducted by members of the admissions staff, faculty members, current students, and/or alumni. * Applicants should prepare for a 25- to 30-minute interview. * Interviews are offered on select days throughout the week on a space-available basis. * Interviews should be scheduled at least 10 days prior to the date you would like to interview. ded scores: * TOEFL Internet-based Test (iBT): 100 * IELTS: 7 * PTE: 68 * DET: 120 We reserve the right to evaluate an applicant’s English through an admission interview and an ESL test prior to the start of classes. As part of her application process, Chen was interviewed in Shanghai by members of the admissions team, who made her feel comfortable and kept in touch with her even after she accepted their offer to enroll in the MS in Business Analytics."
+  },
+  {
+   "id": "48",
+   "region": "US",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Zoom/Teams/Skype",
+   "auto_plat": "Not stated",
+   "sents": "Timeline: 01.05 递交 02.05 面邀 02.15 面试 ... 面经： Self-introduce. ... Why BA? Why Simon? Short-term career goal/backup plan. Cross-culture experience. 18 min 结束战斗 arships available Applications are reviewed as they are received Q&A with Allison Lennebacker '26 (MS) Q&A with Allison Lennebacker '26 (MS) June 16, 2026 This interview was conducted by Kelly McGarry ’26S (MS), admissions ambassador and fellow MS in Accountancy student."
+  },
+  {
+   "id": "62",
+   "region": "UK",
+   "hand_doc": 1,
+   "auto_doc": 1,
+   "hand_fmt": "Asynchronous video",
+   "auto_fmt": "Live 1:1",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "4）开始视频，会出现一个慈祥的老爷爷，是 BA 的 module leader. 一共7个问题，都是他录好的，然后放给大家看。 Applicants who meet the entry requirements and are suitable for the course may be invited for an online interview. Applicants invited to interview will have a window of seven calendar days from receipt of the email to complete the interview. An applicant’s failure to complete their interview within this window would lead to an unsuccessful application. commend to read before taking this programme? (大概意思) What kind of companies would you like to work in after graduation? What are you best at? Why 讲一下面试的流程 1）点开 interview invitation 的电子邮件里面的 link 2) 然后测试你摄像头和语音的功能，我点进了 Practice （也可以不选），形式是录好的 Video（画质跟微信小视频差不多），一个小姐姐的提问。2个问题，各两分钟 （题目内容分别是1."
+  },
+  {
+   "id": "64",
+   "region": "UK",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Panel",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "统计学（msc statistical science）：通常不会进行面试；若学院需要获取更多信息以做出整体评估，则会进行面试；面试官通常为两人"
+  },
+  {
+   "id": "107",
+   "region": "HK",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Live 1:1",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "自我介绍 为什么选择这个专业而不是另外那个offer的（我拿别的学校offer催的面试） 有没有学过高等数学，然后问了很简单的导数问题，e的x次方，x的平方他们的导数分别是多少 还问了一个矩阵就行列式 有什么问题"
+  },
+  {
+   "id": "110",
+   "region": "HK",
+   "hand_doc": 1,
+   "auto_doc": 0,
+   "hand_fmt": "Panel",
+   "auto_fmt": "Unknown",
+   "hand_plat": "Not stated",
+   "auto_plat": "Not stated",
+   "sents": "2025年10月，金融科技硕士，笔试加面试。先笔试，一个小时，不让带计算器。……笔试完第二天收到面试通知，视频面，两位面试官。……全程30分钟"
+  }
+ ]
+}
